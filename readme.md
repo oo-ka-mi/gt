@@ -1,4 +1,4 @@
-<p float="left"><img src="README.png" height="1080" /></p>
+<p float="left"><img src="readme.png" height="1080" /></p>
 <h4 align="center">A small collection of Gran Turismo 5 (BCUS98114) and Gran Turismo 6 (NPUA81049) patches built for RPCS3.</h4>
 <p align="center">
 If you don't wanna manually add each patch into one file or cherry-pick, you can download [this]() patch which has everything listed below.</p>
