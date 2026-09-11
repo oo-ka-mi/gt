@@ -1,0 +1,11 @@
+Version: 1.2
+PPU-a5e547ce3ce25092ac6cae85631f50ba5d9ea914:
+  "QA-Mode":
+    Games:
+      "Gran Turismo 5":
+        BCUS98114: [ 01.00 ]
+    Author: "w0lf"
+    Notes: "Press SELECT in the main-menu to open a debug menu."
+    Patch Version: 1.0
+    Patch:
+        - [ be32, 0x007e771c, 0x60000000 ]

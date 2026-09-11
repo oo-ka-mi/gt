@@ -1,0 +1,12 @@
+Version: 1.2
+PPU-51330488bf0ab6d4ad04304e2855266a10ff7eac:
+  "QA-Mode":
+    Games:
+      "Gran Turismo 6":
+        NPUA81049: [ 01.05 ]
+    Author: "w0lf"
+    Notes: "Press R1+SELECT in the main-menu to open a debug menu"
+    Patch Version: 1.0
+    Patch:
+    - [ be32, 0x0080c8dc, 0x38600001 ]
+    - [ be32, 0x0080c8e0, 0x4E800020 ]

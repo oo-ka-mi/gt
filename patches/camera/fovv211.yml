@@ -1,0 +1,18 @@
+Version: 1.2
+PPU-d73f342bf28ee016ef3d0ccb309b1acb03d8ecce:
+  "Field-of-View":
+    Games:
+      "Gran Turismo 5":
+        BCUS98114: [ 02.11 ]
+    Author: "w0lf (original by illusion.)"
+    Notes: "Changes in-race field-of-view."
+    Configurable Values:
+      "FOV":
+        Type: double_range
+        Value: 0.75
+        Min: 0.1
+        Max: 1
+    Patch Version: 1.0
+    Patch:
+      - [ bef32, 0x017e2da0, "FOV" ]
+      - [ be32, 0x00184f5c, 0x60000000 ]
