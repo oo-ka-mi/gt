@@ -8,7 +8,7 @@ If you don't wanna manually add each patch into one file or cherry-pick, you can
  ⠀
 # Gran Turismo 6 v1.05
 - [Enable QA/Debug Mode](https://github.com/oo-ka-mi/gt/blob/main/patches/qa/qav105.yml)
-
+ 
 
 ⠀
 # Gran Turismo 5 v2.11
