@@ -7,11 +7,14 @@
  ⠀
 # Gran Turismo 6 v1.05
 - [Enable QA/Debug Mode](https://github.com/oo-ka-mi/gt/blob/main/patches/qa/qav105.yml)
+- Custom FOV (illusion) (done, releasing soon)
+- Aspect Ratio (shy_doge) (done, releasing soon)
  
 
 ⠀
 # Gran Turismo 5 v2.11
 - [Custom FOV (illusion)](https://github.com/oo-ka-mi/gt/blob/main/patches/camera/fovv211.yml)
+- Enable QA/Debug Mode (tbd)
 
 
 ⠀
